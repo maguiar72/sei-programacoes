@@ -8,6 +8,8 @@ Abre o Edge/Chrome visível, você faz o login (senha/MFA) e deixa a lista na te
 - Cada execução grava `sei_programacoes.log` na pasta de destino.
 - Interface gráfica (`sei_programacoes.py`) e versão de linha de comando (`coletar_programacoes.py`).
 
+![Janela do programa](docs/janela.png)
+
 ## Uso
 1. Informe a URL do SEI (ex.: `https://sei.exemplo.gov.br/sei/`), o formato e a pasta; clique em **Abrir SEI**.
 2. Faça o login, abra Contratações > Programações de Contratação, filtre e clique em Pesquisar.
