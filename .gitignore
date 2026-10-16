@@ -1,0 +1,10 @@
+_versao.py
+build/
+dist/
+*.spec
+__pycache__/
+saida-sei/
+*.xls
+*.xlsx
+*.log
+diagnostico/
